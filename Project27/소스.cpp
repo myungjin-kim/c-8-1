@@ -7,6 +7,6 @@ int main()
 	char a = '*';
 	char* b = &a;
 
-	printf("º¯¼ö aÀÇ ÁÖ¼Ò: %u, ÄÚµå: %d, ¹®ÀÚ: %c\n", b, *b, *b);
+	printf("ë³€ìˆ˜ aì˜ ì£¼ì†Œ: %u, ì½”ë“œ: %d, : %c\n", b, *b, *b);
 
 }
